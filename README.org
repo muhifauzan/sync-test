@@ -1,1 +1,8 @@
 This is a test repository. Nothing to see here.
+
+** Changelog
+   [[file:CHANGELOG.org][CHANGELOG]]
+** License
+   [[file:LICENSE][LICENSE]]
+** Contributing
+   [[file:CONTRIBUTING.org][CONTRIBUTING]]
