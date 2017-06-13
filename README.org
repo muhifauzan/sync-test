@@ -1,3 +1,4 @@
+#+ATTR_HTML: alt="build status"
 [[https://gitlab.com/muhifauzan/sync-test/commits/master][file:https://gitlab.com/muhifauzan/sync-test/badges/master/build.svg]]
 
 This is a test repository. Nothing to see here.
